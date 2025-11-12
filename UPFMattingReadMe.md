@@ -330,12 +330,6 @@ The `evaluation/` directory contains scripts for:
 - Check data loading bottlenecks
 - Consider distributed training
 
-**Poor Matting Quality**
-- Ensure proper preprocessing of input data
-- Check if pretrained weights are loaded correctly
-- Verify training loss convergence
-- Adjust loss function weights
-
 ## Additional Resources
 
 - Original RVM: See `README.md` and `README_zh_Hans.md`
